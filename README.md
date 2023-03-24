@@ -25,4 +25,21 @@ those are limitations so it's pretty cool isn't it? Ah and I added PVP too.
 ## Where can I play the game?
 [Here](https://rgeek9323.github.io/Zelda1-in-Multiplayer/)
 
-The original game was made by Nintendo.
+## How much
+
+### Recreation of the overworld:
+
+![](https://geps.dev/progress/10) (in the current release)
+
+![](https://geps.dev/progress/25) (in the current dev version that will be updated)
+![loz_carte_principale_premiere_quete](https://user-images.githubusercontent.com/63604225/227519384-55d90d94-13de-4046-8d00-9eb0d719857a.png)
+
+#### All accesibles areas in the dev version (not the release) are in colors
+
+### Recreation of every enemies:
+
+![](https://geps.dev/progress/0) (in the current release)
+
+![](https://geps.dev/progress/5) (in the current dev version that will be updated)
+
+## The original game was made by Nintendo.
