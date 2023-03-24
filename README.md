@@ -25,7 +25,7 @@ those are limitations so it's pretty cool isn't it? Ah and I added PVP too.
 ## Where can I play the game?
 [Here](https://rgeek9323.github.io/Zelda1-in-Multiplayer/)
 
-## How much
+## How complete is the game?
 
 ### Recreation of the overworld:
 
